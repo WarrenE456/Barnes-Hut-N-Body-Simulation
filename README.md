@@ -5,7 +5,7 @@ I would like to speak on behalf of my past self and apologize for the lack of a 
 
 ## What is it?
 
-This project is an implementation of an N-Body simulation in 2D and 3D, using the Barnes-Hut algorithm. I can definitely say I fell in love with programming (and tree data structures) by building this project.
+This project is an implementation of a gravitational N-Body simulation in 2D and 3D, using the Barnes-Hut algorithm. I can definitely say I fell in love with programming (and tree data structures) by building this project.
 
 ## Features
 ### Performance
